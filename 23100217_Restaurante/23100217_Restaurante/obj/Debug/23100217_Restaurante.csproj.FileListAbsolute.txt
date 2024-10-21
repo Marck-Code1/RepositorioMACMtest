@@ -1,0 +1,10 @@
+C:\Users\mv503\Desktop\POO\23100217_Restaurante\23100217_Restaurante\bin\Debug\23100217_Restaurante.exe.config
+C:\Users\mv503\Desktop\POO\23100217_Restaurante\23100217_Restaurante\bin\Debug\23100217_Restaurante.exe
+C:\Users\mv503\Desktop\POO\23100217_Restaurante\23100217_Restaurante\bin\Debug\23100217_Restaurante.pdb
+C:\Users\mv503\Desktop\POO\23100217_Restaurante\23100217_Restaurante\obj\Debug\23100217_Restaurante.csproj.AssemblyReference.cache
+C:\Users\mv503\Desktop\POO\23100217_Restaurante\23100217_Restaurante\obj\Debug\_23100217_Restaurante.Form1.resources
+C:\Users\mv503\Desktop\POO\23100217_Restaurante\23100217_Restaurante\obj\Debug\_23100217_Restaurante.Properties.Resources.resources
+C:\Users\mv503\Desktop\POO\23100217_Restaurante\23100217_Restaurante\obj\Debug\23100217_Restaurante.csproj.GenerateResource.cache
+C:\Users\mv503\Desktop\POO\23100217_Restaurante\23100217_Restaurante\obj\Debug\23100217_Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\mv503\Desktop\POO\23100217_Restaurante\23100217_Restaurante\obj\Debug\23100217_Restaurante.exe
+C:\Users\mv503\Desktop\POO\23100217_Restaurante\23100217_Restaurante\obj\Debug\23100217_Restaurante.pdb
